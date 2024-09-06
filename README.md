@@ -35,9 +35,6 @@ Credit scoring is a fundamental process in the financial sector, used to evaluat
    python main.py
    ```
 
-4. **View Results**:
-   Check the `results` folder for evaluation metrics and visualizations.
-
 ## Contributions
 
 Contributions are welcome! Feel free to submit issues or pull requests to enhance the project. Your feedback and improvements are greatly appreciated.
